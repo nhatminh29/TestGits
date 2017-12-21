@@ -23,6 +23,7 @@ namespace TestGits
         public MainWindow()
         {
             InitializeComponent();
+            //1
         }
     }
 }
